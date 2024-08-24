@@ -1,0 +1,3481 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676405877618,
+                    29.7580415999205
+                ]
+            },
+            "properties": {
+                "objectid": 2,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "35174504-b612-4346-b0cf-acc4d2a1e3fa",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3645672835102,
+                    29.7566117342223
+                ]
+            },
+            "properties": {
+                "objectid": 3,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "8e283b02-51cd-4710-a5c1-08392c26a4ef",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3662592796793,
+                    29.7578848226791
+                ]
+            },
+            "properties": {
+                "objectid": 6,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "a6a17c26-029e-4553-a408-77380d142311",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3662787024385,
+                    29.7582927162171
+                ]
+            },
+            "properties": {
+                "objectid": 7,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "3eaa29fa-405c-43e2-8c27-55262d3b29aa",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3664325641297,
+                    29.7590968698328
+                ]
+            },
+            "properties": {
+                "objectid": 8,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "f9707f3a-bd59-43c8-9706-23a19d8fb82c",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3667171313258,
+                    29.7593507048952
+                ]
+            },
+            "properties": {
+                "objectid": 9,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "27c663fb-2629-48ac-8d7f-2362bfb4249b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3682675750681,
+                    29.76110556332
+                ]
+            },
+            "properties": {
+                "objectid": 10,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "240d1274-e0df-4746-9e76-70e10460ce7d",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3638925989042,
+                    29.7605656172752
+                ]
+            },
+            "properties": {
+                "objectid": 12,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "8705ee49-2996-4465-81e3-fcb16f72deac",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3637834752788,
+                    29.7597028106139
+                ]
+            },
+            "properties": {
+                "objectid": 13,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "25f25324-0e95-4885-942d-082d594969f9",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3638192359278,
+                    29.7598118963143
+                ]
+            },
+            "properties": {
+                "objectid": 14,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "45787013-6ad7-4029-a0b0-961994978f0c",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3629203193409,
+                    29.7592719847706
+                ]
+            },
+            "properties": {
+                "objectid": 15,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "814b3abc-f988-42ca-b854-4b8acae169c2",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3622715648337,
+                    29.7588914809763
+                ]
+            },
+            "properties": {
+                "objectid": 16,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "ae94979f-1a7a-4ed0-9fb2-0b1dfb28eaa3",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3672465851461,
+                    29.7596920739434
+                ]
+            },
+            "properties": {
+                "objectid": 18,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "9518ce5a-ffa6-4876-a6db-a0867d44d48e",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3669498301512,
+                    29.7596282343496
+                ]
+            },
+            "properties": {
+                "objectid": 19,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "dac972e0-480b-4419-9b0d-8b530605faf0",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3663127795492,
+                    29.759860159596
+                ]
+            },
+            "properties": {
+                "objectid": 20,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "8fe2f6c8-635e-4d9d-bee8-6b509f09a9e8",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3655800923051,
+                    29.7585830057986
+                ]
+            },
+            "properties": {
+                "objectid": 21,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "554636df-e51c-4755-80fd-a656ec4922c8",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3650275153633,
+                    29.7586742849745
+                ]
+            },
+            "properties": {
+                "objectid": 22,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "bbf8b17b-5fd9-4a28-ac6a-1a0dad7e82ca",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3651516609241,
+                    29.7591603697972
+                ]
+            },
+            "properties": {
+                "objectid": 23,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "070d845d-ce76-4032-a73e-fc67895bc8a8",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3655970793607,
+                    29.7583287255227
+                ]
+            },
+            "properties": {
+                "objectid": 24,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "020af8d0-89d3-4d2c-ad6d-3545f04c2eb7",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3655862878711,
+                    29.7579677401929
+                ]
+            },
+            "properties": {
+                "objectid": 25,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "176bca44-9534-4664-a2d7-63d8e728e5d0",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3663729372406,
+                    29.7576869755441
+                ]
+            },
+            "properties": {
+                "objectid": 26,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "a8744ca6-fd16-49a1-9ce8-1f561a38c5bf",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3661653862299,
+                    29.7575618057159
+                ]
+            },
+            "properties": {
+                "objectid": 27,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "117b3687-cfef-42c2-9b9c-55e04ed479d3",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3671276020552,
+                    29.7577315335611
+                ]
+            },
+            "properties": {
+                "objectid": 28,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "f1b72515-123d-49a8-9e76-1dfe52cebe63",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3680655500314,
+                    29.7584118178228
+                ]
+            },
+            "properties": {
+                "objectid": 29,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "241b96ee-882e-4cf6-94c8-dc86122ba4d1",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3678534926043,
+                    29.7592692950427
+                ]
+            },
+            "properties": {
+                "objectid": 30,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "d04e7b67-c5b6-4611-aa82-e1cfb06fa689",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3674868329893,
+                    29.7590356854232
+                ]
+            },
+            "properties": {
+                "objectid": 31,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "023bbcf5-2222-4624-a3be-73a5655f1550",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3700205611646,
+                    29.7605716081935
+                ]
+            },
+            "properties": {
+                "objectid": 32,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "c15e94ff-8754-4e89-bee6-321856d31b3d",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3695059182736,
+                    29.7602547070156
+                ]
+            },
+            "properties": {
+                "objectid": 33,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "1d305e36-a1b0-42e9-afca-e531f422f938",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3692504952758,
+                    29.7601031041636
+                ]
+            },
+            "properties": {
+                "objectid": 34,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "18127189-15b8-4420-be4f-026adaee9c88",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3693903847755,
+                    29.7612727154458
+                ]
+            },
+            "properties": {
+                "objectid": 35,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "6af65f4c-6e50-46cf-8c7b-8c4683afd2eb",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3661314525313,
+                    29.7628065738006
+                ]
+            },
+            "properties": {
+                "objectid": 36,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "6e7caf96-62e6-43c1-a750-f405960d297d",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3671995439133,
+                    29.7625965872356
+                ]
+            },
+            "properties": {
+                "objectid": 37,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "e2dae5dd-daab-428e-9f5b-4564584f5519",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3671591927509,
+                    29.7624849653651
+                ]
+            },
+            "properties": {
+                "objectid": 38,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "6d33c9c8-86f7-4b31-993b-982efe5209f6",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3665151483513,
+                    29.7621041706312
+                ]
+            },
+            "properties": {
+                "objectid": 39,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "ffcbfdad-958b-4182-afed-936b8a0e1cf1",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3666917306533,
+                    29.7622085761319
+                ]
+            },
+            "properties": {
+                "objectid": 40,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "6f22672c-f250-4e38-8599-bb59efba2aba",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.366925127551,
+                    29.762346572795
+                ]
+            },
+            "properties": {
+                "objectid": 41,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "b7c48ad6-2431-43e6-aa23-53191f016bae",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3650476054614,
+                    29.7624929929082
+                ]
+            },
+            "properties": {
+                "objectid": 42,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "649782ec-cc6b-4de7-8460-8747466ef080",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3647545404873,
+                    29.7622128045338
+                ]
+            },
+            "properties": {
+                "objectid": 43,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "0a41bf11-15ab-4e29-b861-b748a3ca3556",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.36522434495,
+                    29.7617497758003
+                ]
+            },
+            "properties": {
+                "objectid": 44,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "04bd5142-726f-4312-90c0-7b51a576d5e4",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3691099262286,
+                    29.7625859832262
+                ]
+            },
+            "properties": {
+                "objectid": 45,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "f36440bd-7788-466b-8b4b-70e3b3e83033",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3687088169735,
+                    29.7625742997505
+                ]
+            },
+            "properties": {
+                "objectid": 46,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "1dd38ce3-0bdf-45db-8a9d-b676616374c9",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3667303373478,
+                    29.7609206380236
+                ]
+            },
+            "properties": {
+                "objectid": 47,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "0ef4cda9-4755-4425-a065-23f0319f831f",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.366670663968,
+                    29.7603667293849
+                ]
+            },
+            "properties": {
+                "objectid": 48,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "ec87e7d6-b5e8-4bb8-9195-c49f7359b4d4",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3661074126387,
+                    29.7605075130887
+                ]
+            },
+            "properties": {
+                "objectid": 49,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "308acb6e-901e-46cb-b776-13e8bb5989a6",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3659107979695,
+                    29.7603426948609
+                ]
+            },
+            "properties": {
+                "objectid": 50,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "9172395d-72ef-4b53-a4d6-82cff0cd548d",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3653990941257,
+                    29.7598376997629
+                ]
+            },
+            "properties": {
+                "objectid": 51,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "902bad4d-30fb-43d5-b347-3c5c47d65de1",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3652056289937,
+                    29.7594652556545
+                ]
+            },
+            "properties": {
+                "objectid": 52,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "fdbd5436-c4e3-489c-96d5-e3e3d6e83b5f",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3652022637267,
+                    29.7602923239381
+                ]
+            },
+            "properties": {
+                "objectid": 53,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "d762695f-8b3e-4fe7-ad80-2317da2b12d8",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3647143860206,
+                    29.7599984402733
+                ]
+            },
+            "properties": {
+                "objectid": 54,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "8276b4f4-f01f-4556-820c-4c4e837f08d3",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3643283188053,
+                    29.7597686507784
+                ]
+            },
+            "properties": {
+                "objectid": 55,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "b7ca4932-d6a9-42ed-9465-abffd807d861",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3600256679759,
+                    29.7619524776534
+                ]
+            },
+            "properties": {
+                "objectid": 56,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "1dbd9a89-428a-4139-96a6-14c7d034f7c3",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3605366302325,
+                    29.7616309991893
+                ]
+            },
+            "properties": {
+                "objectid": 57,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "94863a5d-3753-4039-bf70-03639b19f122",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3607480721614,
+                    29.7613506709999
+                ]
+            },
+            "properties": {
+                "objectid": 58,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "4d1a33de-b988-44c0-935d-93758420fc17",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3588557525546,
+                    29.7617271132003
+                ]
+            },
+            "properties": {
+                "objectid": 59,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "c12b4fbf-5495-420a-aa2d-dfae7a30c2f6",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3586678192348,
+                    29.7619815055178
+                ]
+            },
+            "properties": {
+                "objectid": 60,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "5e588695-2170-4e46-b169-5f5a810c31a2",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3589131271165,
+                    29.7621294598653
+                ]
+            },
+            "properties": {
+                "objectid": 61,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "702cf4a4-0360-4338-85a8-43c5449bbd1d",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3595783841752,
+                    29.7613047080126
+                ]
+            },
+            "properties": {
+                "objectid": 62,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "96f7d97b-32a3-417a-9a91-515eca3b96c6",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.359527066645,
+                    29.7609720578354
+                ]
+            },
+            "properties": {
+                "objectid": 63,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "4c08476a-b453-4d2c-9499-f84295d4ae15",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.359936045863,
+                    29.7612199647488
+                ]
+            },
+            "properties": {
+                "objectid": 64,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "46fa9ea4-eae0-41d0-8078-1dcfd94a52d4",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3599019717565,
+                    29.7608646874803
+                ]
+            },
+            "properties": {
+                "objectid": 65,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "fcf3d03b-d7e2-4e70-8db1-dc39419816b3",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3586571519123,
+                    29.7608500099146
+                ]
+            },
+            "properties": {
+                "objectid": 66,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "351efba3-6e93-4bec-bff3-5e8cc9011f70",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3579095866956,
+                    29.7618260281682
+                ]
+            },
+            "properties": {
+                "objectid": 67,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "76beba86-8949-45a8-af2d-79dd548fd139",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3577167679331,
+                    29.7609894577509
+                ]
+            },
+            "properties": {
+                "objectid": 68,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "11ace32b-e6d4-4f04-8a92-cc97829583a1",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3569891094226,
+                    29.7601715984133
+                ]
+            },
+            "properties": {
+                "objectid": 69,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "a5b1941d-0cc9-4f40-a18a-bd98cc5319ce",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3627908022543,
+                    29.7614933322686
+                ]
+            },
+            "properties": {
+                "objectid": 70,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "1bf96eea-5e1b-46b9-9d27-d4e9bbcadb50",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3640582026061,
+                    29.7615003407668
+                ]
+            },
+            "properties": {
+                "objectid": 71,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "790f1c4b-6293-4b0b-856b-0664db2431e1",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3642981798542,
+                    29.7603344602223
+                ]
+            },
+            "properties": {
+                "objectid": 72,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "4d0b584c-2c21-4d0f-adfd-fb61fc77d73a",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3634534462126,
+                    29.7602736379101
+                ]
+            },
+            "properties": {
+                "objectid": 73,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "deeeff76-9690-4147-bc2c-34261ddc4c6e",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3658386459445,
+                    29.7588594829652
+                ]
+            },
+            "properties": {
+                "objectid": 75,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "779c16ee-6f3e-4b37-9a52-9139c1bf86fa",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3647890443823,
+                    29.7585778077518
+                ]
+            },
+            "properties": {
+                "objectid": 76,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "eabb2745-3035-42bc-aab2-44f95d58be04",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3655693941562,
+                    29.7575696638562
+                ]
+            },
+            "properties": {
+                "objectid": 77,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "f0f98b0b-6977-414f-8734-49526f9c35f9",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3660214627187,
+                    29.7570048674381
+                ]
+            },
+            "properties": {
+                "objectid": 78,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "c5a2e6f1-a9b4-475c-bc2b-35c98243c32a",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3652373653278,
+                    29.7569556032783
+                ]
+            },
+            "properties": {
+                "objectid": 79,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "a93b1076-99ed-4189-9385-2e9253bfc0cd",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3653117767142,
+                    29.756702926684
+                ]
+            },
+            "properties": {
+                "objectid": 80,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "4c7d7d58-84b0-4802-a649-60ee5526d7cd",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3659751432396,
+                    29.7566211515309
+                ]
+            },
+            "properties": {
+                "objectid": 81,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "9e66f30d-3929-4252-be09-c06b3498d4bd",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3656817728723,
+                    29.7564476812554
+                ]
+            },
+            "properties": {
+                "objectid": 82,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "2da0367f-3414-4333-8e57-e6a752ad81a9",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3669664346504,
+                    29.7569454379998
+                ]
+            },
+            "properties": {
+                "objectid": 83,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "81e94c3b-2af9-4911-99da-034af01e04b2",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3666912056,
+                    29.75660659392
+                ]
+            },
+            "properties": {
+                "objectid": 84,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "bee6ce02-0790-4631-8b24-21b2a082c68b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3662505281716,
+                    29.7563712450068
+                ]
+            },
+            "properties": {
+                "objectid": 85,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "94c0a15d-ed37-471f-8f9f-148d9b695490",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.365005608546,
+                    29.7560270334962
+                ]
+            },
+            "properties": {
+                "objectid": 86,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "a5e12b18-7f65-4f08-a787-d6a67ba2908a",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3650178912584,
+                    29.7564397075769
+                ]
+            },
+            "properties": {
+                "objectid": 87,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "20e56cc3-2a1e-4736-9908-96ce41875d41",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3651381534774,
+                    29.7558682382304
+                ]
+            },
+            "properties": {
+                "objectid": 88,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "d22a0f47-2292-456c-b5cc-ffd16b69ca11",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3645410010634,
+                    29.7555085582564
+                ]
+            },
+            "properties": {
+                "objectid": 89,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "fcb73f94-03a1-42d8-a659-3d9faec5d2d5",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3642822741052,
+                    29.7553525155351
+                ]
+            },
+            "properties": {
+                "objectid": 90,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "6f811e0a-24f4-4e31-a09b-9ea7d029efce",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3637054041615,
+                    29.7549753538674
+                ]
+            },
+            "properties": {
+                "objectid": 91,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "bdd2ab06-683f-44ea-ae1d-d70c2571f3b6",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.363610142052,
+                    29.7551896537781
+                ]
+            },
+            "properties": {
+                "objectid": 92,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "cb98283a-db56-4001-9958-ad461933af51",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3632982284503,
+                    29.7550027620508
+                ]
+            },
+            "properties": {
+                "objectid": 93,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "4187ff5a-c98c-4334-b609-a70f77ca6cea",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3634367378812,
+                    29.7548133140434
+                ]
+            },
+            "properties": {
+                "objectid": 94,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "4fc035df-4df3-46a3-8909-2722c3e792d1",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3633804423272,
+                    29.7554815297675
+                ]
+            },
+            "properties": {
+                "objectid": 95,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "7240f27a-91ff-42cb-af78-61994e57c35b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3638346301901,
+                    29.755972152602
+                ]
+            },
+            "properties": {
+                "objectid": 96,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "3e91ffd9-1d08-4bdc-9d44-498ecfae38fa",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.364049449572,
+                    29.755658907595
+                ]
+            },
+            "properties": {
+                "objectid": 97,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "4c01cb49-25e9-48f4-b292-13b289e5bf41",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3644304392968,
+                    29.7567798189987
+                ]
+            },
+            "properties": {
+                "objectid": 98,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "740ce2cf-13ec-4498-ad34-f658a25c9685",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3646119744013,
+                    29.7571334029363
+                ]
+            },
+            "properties": {
+                "objectid": 99,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "11aebc4c-c5d8-4c5b-bdc1-c326bd1f86f0",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3646984578188,
+                    29.7570224644391
+                ]
+            },
+            "properties": {
+                "objectid": 100,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "af6b540a-f92e-41ae-b565-7669aecb6bfa",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3637525387677,
+                    29.7564990296494
+                ]
+            },
+            "properties": {
+                "objectid": 101,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "df312a2d-6c3a-40bb-ae46-9274e89ffbfc",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3636741300198,
+                    29.7582301042469
+                ]
+            },
+            "properties": {
+                "objectid": 102,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "69e4f02d-df68-437d-a0f4-86e1691d31c9",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3640073129788,
+                    29.7583332544546
+                ]
+            },
+            "properties": {
+                "objectid": 103,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "a059038f-9599-4610-b8e6-33ab59d53319",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3642916120722,
+                    29.7579829913174
+                ]
+            },
+            "properties": {
+                "objectid": 104,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "b372221a-3c83-44e1-aa66-ec5a5f9d0606",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3648537132725,
+                    29.7578831987924
+                ]
+            },
+            "properties": {
+                "objectid": 105,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "0611c2d5-c32f-4753-b34d-8c12eca9f994",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 106,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.365328906323,
+                    29.7573214646652
+                ]
+            },
+            "properties": {
+                "objectid": 106,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "06882e0c-7d26-4048-b15d-f2b25a94d6b0",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 107,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3639095020945,
+                    29.7568201693545
+                ]
+            },
+            "properties": {
+                "objectid": 107,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "01d5ce26-56a3-47e7-9d78-b805fc54d944",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 108,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3635566431748,
+                    29.756262149766
+                ]
+            },
+            "properties": {
+                "objectid": 108,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "555a19ea-8b74-422a-8863-9f32c8784ff5",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3625149965046,
+                    29.7559565612399
+                ]
+            },
+            "properties": {
+                "objectid": 109,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "d42fef40-d248-4aca-ba53-17502894b681",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3618115389187,
+                    29.7552756916419
+                ]
+            },
+            "properties": {
+                "objectid": 110,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "d0c9f8d6-e7b0-418d-bf2a-b0535c7e2c13",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 111,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3614137391521,
+                    29.7552744416319
+                ]
+            },
+            "properties": {
+                "objectid": 111,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "c8e466ee-cf2a-478b-938f-bb6b9cc2a027",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 112,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3609711450267,
+                    29.7547000611226
+                ]
+            },
+            "properties": {
+                "objectid": 112,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "58e213c5-f1bc-4cc4-87e3-a357a486b52c",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3603209846349,
+                    29.7543506052228
+                ]
+            },
+            "properties": {
+                "objectid": 113,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "06308434-3ed5-4913-a01c-b9e0c90be59f",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 114,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3596492232629,
+                    29.7550039440939
+                ]
+            },
+            "properties": {
+                "objectid": 114,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "4df93ee2-2ae1-4025-9fb5-17e45d31a995",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3598039305277,
+                    29.7552178240394
+                ]
+            },
+            "properties": {
+                "objectid": 115,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "a8b90bac-1183-4b51-802d-4824687dabd6",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 116,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3614856374183,
+                    29.7562856545799
+                ]
+            },
+            "properties": {
+                "objectid": 116,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "bea837a0-5c4a-4eec-89f9-de776bcea562",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 117,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3605204903908,
+                    29.7563018921972
+                ]
+            },
+            "properties": {
+                "objectid": 117,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "bb53e40a-963d-4d7f-ace8-ffd3c3313f80",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.367683781081,
+                    29.7571446218754
+                ]
+            },
+            "properties": {
+                "objectid": 118,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "69dd5b65-6d31-4e09-8989-b208803fd49a",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3680482403855,
+                    29.7574390402966
+                ]
+            },
+            "properties": {
+                "objectid": 119,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "4f27c860-832f-40a8-8c06-185bc48fff07",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1653485409000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3683407494734,
+                    29.7570939453068
+                ]
+            },
+            "properties": {
+                "objectid": 120,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "644977fe-20bd-4f11-a1a0-f7c4d7e9d30a",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3680660922719,
+                    29.7564603020543
+                ]
+            },
+            "properties": {
+                "objectid": 121,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "c4259a58-9a91-42b6-8aa0-8a42da1cae61",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1653485340000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.368738252292,
+                    29.7568104768829
+                ]
+            },
+            "properties": {
+                "objectid": 122,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "9847e16e-e903-4b0d-bda5-98831a5b7898",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.369009126758,
+                    29.7570503040892
+                ]
+            },
+            "properties": {
+                "objectid": 123,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "03ea5217-3856-43ae-a236-a96b522762e5",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 124,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3692631562821,
+                    29.7565529982802
+                ]
+            },
+            "properties": {
+                "objectid": 124,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "3a0c58d8-434b-4bb9-adbd-c17315d4923e",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 125,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3696811241278,
+                    29.7564925585423
+                ]
+            },
+            "properties": {
+                "objectid": 125,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "0fde6694-05af-4ccd-a7d6-1a5a10d3fa9f",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 126,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3700571748101,
+                    29.7567368986246
+                ]
+            },
+            "properties": {
+                "objectid": 126,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "b4c883f4-5915-4a68-9edc-8a754a561b85",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 127,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3702614383364,
+                    29.7558943599003
+                ]
+            },
+            "properties": {
+                "objectid": 127,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "8c1bef62-fdad-43c8-b9da-78416fbfd368",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3693746814502,
+                    29.7553492663296
+                ]
+            },
+            "properties": {
+                "objectid": 128,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "3504a2b0-70c7-47c1-b306-4440e823a3d0",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3701355891095,
+                    29.7547487158171
+                ]
+            },
+            "properties": {
+                "objectid": 129,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "f346bbd9-dba6-46b8-87fb-b5071be12fab",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3706280355348,
+                    29.7550213380486
+                ]
+            },
+            "properties": {
+                "objectid": 130,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "6ca6f781-3203-49ce-a544-b52907cd72f1",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3720082420713,
+                    29.7554079832798
+                ]
+            },
+            "properties": {
+                "objectid": 131,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "354a0144-f694-4755-9869-8dca858bd41f",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3712246453153,
+                    29.7551259523382
+                ]
+            },
+            "properties": {
+                "objectid": 132,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "b506c44b-c06d-4fe2-8aec-87c9d15146ed",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 133,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3711948528024,
+                    29.7543617558825
+                ]
+            },
+            "properties": {
+                "objectid": 133,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "405c9bfe-06f5-44bc-a079-358293af5943",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 134,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3727946979751,
+                    29.7542822547297
+                ]
+            },
+            "properties": {
+                "objectid": 134,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "5b9cbad2-4e4f-49e0-ba57-773e857c4b14",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3734066910136,
+                    29.7538692170619
+                ]
+            },
+            "properties": {
+                "objectid": 135,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "75dd3601-8ac1-4105-b001-64e117c802e4",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3718375062877,
+                    29.7528909149528
+                ]
+            },
+            "properties": {
+                "objectid": 136,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "dff02cac-9585-4afe-90aa-272ae0ed95a1",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 137,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3722176153722,
+                    29.7534019225263
+                ]
+            },
+            "properties": {
+                "objectid": 137,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "174f813d-b13c-452b-a6a9-450dbe85e84f",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3724517719082,
+                    29.7531102574087
+                ]
+            },
+            "properties": {
+                "objectid": 138,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "f2e1bb1c-4901-4da0-86ae-b3853519fdee",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 139,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3728095372485,
+                    29.7536714143195
+                ]
+            },
+            "properties": {
+                "objectid": 139,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "147d94d7-6df4-43d7-835f-9b84846ef50b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 140,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3729318789883,
+                    29.7538970125814
+                ]
+            },
+            "properties": {
+                "objectid": 140,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "ba7c2ad8-91c3-4e67-beb0-edefcb981742",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3737314024963,
+                    29.7533046358403
+                ]
+            },
+            "properties": {
+                "objectid": 141,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "70f62247-39cd-40d2-afac-4cd220e0646c",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3727440973289,
+                    29.7527076076054
+                ]
+            },
+            "properties": {
+                "objectid": 142,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "7fd8f796-a921-4f03-b3ed-3d5fe1d2f2e4",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3733804414667,
+                    29.752524208162
+                ]
+            },
+            "properties": {
+                "objectid": 143,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "a2b53965-d51f-4b65-858d-16a2e94123b4",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 144,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3738551166467,
+                    29.7529169873658
+                ]
+            },
+            "properties": {
+                "objectid": 144,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "4f778925-a144-42af-8d9d-ae7f667c17db",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3686557988264,
+                    29.7577323021721
+                ]
+            },
+            "properties": {
+                "objectid": 145,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "fd0cb06b-3730-453b-a7a4-38829ca18a55",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 146,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3692722059244,
+                    29.7576690289285
+                ]
+            },
+            "properties": {
+                "objectid": 146,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "5bd828b5-55db-4591-ba7c-8d425d0e8f43",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3690707550789,
+                    29.7579284262647
+                ]
+            },
+            "properties": {
+                "objectid": 147,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "3486c67d-d0fd-4f5b-93ac-699d7a6b4540",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 148,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3694014710776,
+                    29.7579419740819
+                ]
+            },
+            "properties": {
+                "objectid": 148,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "eccb7998-96c7-4704-b866-e4b3244b21d0",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3703611983042,
+                    29.7589770608967
+                ]
+            },
+            "properties": {
+                "objectid": 149,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "538835d1-0980-48a3-a8b3-daf62c3e9f8b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.370859522353,
+                    29.7588918267883
+                ]
+            },
+            "properties": {
+                "objectid": 150,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "7b2f5f4a-93f2-447b-b1d4-7d260d1b8860",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.370558732122,
+                    29.7585224694847
+                ]
+            },
+            "properties": {
+                "objectid": 151,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "5b7cee04-30b8-48fb-b082-d9f5f4ceed44",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3715213381911,
+                    29.7584728251922
+                ]
+            },
+            "properties": {
+                "objectid": 152,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "2159a3f4-765c-4b22-99c4-3fc9d9f8c16f",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 153,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3710443875231,
+                    29.7580864140778
+                ]
+            },
+            "properties": {
+                "objectid": 153,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "68b76ec3-1c36-4034-8ef0-f2f3c6712a42",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 154,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3705299804449,
+                    29.7579822172566
+                ]
+            },
+            "properties": {
+                "objectid": 154,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "0d1b036d-93f4-4625-baae-dae66a3b68bb",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3701584589155,
+                    29.7576730283615
+                ]
+            },
+            "properties": {
+                "objectid": 155,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "59dcf2b0-9731-416e-b266-c1392c66655d",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 156,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3700922967429,
+                    29.7575449628071
+                ]
+            },
+            "properties": {
+                "objectid": 156,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "30c0f1f7-ebdf-475b-b5a6-deb2bd405978",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 157,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3708142244949,
+                    29.7574294215434
+                ]
+            },
+            "properties": {
+                "objectid": 157,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "843e7ed1-a25b-4a34-96a0-f58dc2f15020",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 158,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3710080484492,
+                    29.7571758422399
+                ]
+            },
+            "properties": {
+                "objectid": 158,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "5c09f8c0-fe33-412a-b6e8-3be1d13aedce",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.370634866258,
+                    29.7568637959644
+                ]
+            },
+            "properties": {
+                "objectid": 159,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "0aeaafda-bcd7-4fea-b7ac-3b7dca72cebc",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 160,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3711747241454,
+                    29.756841515915
+                ]
+            },
+            "properties": {
+                "objectid": 160,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "2a9dd63c-0e2e-4291-8904-a9780f0a9f17",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 161,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3718972536469,
+                    29.7571019685788
+                ]
+            },
+            "properties": {
+                "objectid": 161,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "cb5cdbbd-a685-4b8c-953e-9a902059ab2b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3725324576035,
+                    29.7566011135487
+                ]
+            },
+            "properties": {
+                "objectid": 162,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "60ffc4ad-105c-4f08-8d7b-c5db923601b9",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3726328034972,
+                    29.7559900545894
+                ]
+            },
+            "properties": {
+                "objectid": 163,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "3f4adc05-e459-4bc3-8bb5-19d415550b6d",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452892,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452892
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3679233243006,
+                    29.7568422107017
+                ]
+            },
+            "properties": {
+                "objectid": 164,
+                "name": null,
+                "address": null,
+                "building": null,
+                "globalid": "feef769c-e2ae-443e-8966-acc9fab61876",
+                "created_user": "HPDGIS",
+                "created_date": 1653485403000,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1653485403000
+            }
+        }
+    ]
+}

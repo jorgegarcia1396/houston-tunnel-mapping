@@ -1,0 +1,46 @@
+# Houston Tunnel Mapping System (EDA)
+
+This R notebook performs basic exploratory data analysis on the Houston Tunnel system.
+
+```{r}
+library(tidyverse)
+library(sf)
+library(tmap)
+library(tmaptools)
+```
+
+```{r}
+tunnels <- st_read("tunnels.geojson")
+```
+
+```{r}
+head(as.data.frame(tunnels))
+```
+
+```{r}
+tm_shape(tunnels) +
+    tm_lines(col = "name", lwd = 2.5)
+```
+
+```{r}
+# Calculate the distance in meters and feet
+
+meters <- st_length(tunnels)
+footage <- as.numeric(meters) * 3.2808399
+
+tunnels["footage"] <- footage
+
+# Compare Shape__Length and footage columns
+as.data.frame(tunnels) %>%
+    .[, c("name", "Shape__Length", "footage")]
+```
+
+```{r}
+# Calculate total miles of tunnels
+
+sum(tunnels$Shape__Length) / 5280
+```
+
+```{r}
+sum(tunnels$footage) / 5280
+```

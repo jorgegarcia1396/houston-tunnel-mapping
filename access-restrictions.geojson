@@ -1,0 +1,166 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.3688341741135,
+                            29.7608506802681
+                        ],
+                        [
+                            -95.3676497536007,
+                            29.7601327843134
+                        ],
+                        [
+                            -95.3677007960147,
+                            29.7600666358325
+                        ],
+                        [
+                            -95.3688885535852,
+                            29.7607887460742
+                        ],
+                        [
+                            -95.3688341741135,
+                            29.7608506802681
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "objectid": 2,
+                "accessrestriction": "2",
+                "notes": "Path is walking space in lane of parking garage.",
+                "globalid": "297c9786-7858-4d30-9791-22fdae8a3412",
+                "created_user": "HPDGIS",
+                "created_date": 1635262453251,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262453251,
+                "Shape__Area": 13142.28515625,
+                "Shape__Length": 974.24538357306
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.363462547668,
+                            29.7552250251844
+                        ],
+                        [
+                            -95.3634688278058,
+                            29.755320163664
+                        ],
+                        [
+                            -95.3633851012668,
+                            29.7553479356909
+                        ],
+                        [
+                            -95.3632305382961,
+                            29.755533735309
+                        ],
+                        [
+                            -95.3622213524585,
+                            29.7549526874021
+                        ],
+                        [
+                            -95.3619445546354,
+                            29.7550781668837
+                        ],
+                        [
+                            -95.3615987271627,
+                            29.7548429519733
+                        ],
+                        [
+                            -95.3619162262791,
+                            29.754453232226
+                        ],
+                        [
+                            -95.3621431905927,
+                            29.7545674984138
+                        ],
+                        [
+                            -95.3622896410295,
+                            29.7548186806091
+                        ],
+                        [
+                            -95.363233996238,
+                            29.7553839526605
+                        ],
+                        [
+                            -95.3633172515837,
+                            29.7552734915506
+                        ],
+                        [
+                            -95.363462547668,
+                            29.7552250251844
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "objectid": 10,
+                "accessrestriction": "2",
+                "notes": "1331 Lamar St. Not a tunnel. Shops at Houston Center.",
+                "globalid": "09f38bdc-9f94-4952-ae99-e9c4f7298b22",
+                "created_user": "HPDGIS",
+                "created_date": 1635262453251,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262453251,
+                "Shape__Area": 50653.26953125,
+                "Shape__Length": 1588.5887240511847
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -95.3641703163276,
+                            29.7585764622411
+                        ],
+                        [
+                            -95.3641336319388,
+                            29.7585546269196
+                        ],
+                        [
+                            -95.364171008584,
+                            29.7585078403214
+                        ],
+                        [
+                            -95.3642113409658,
+                            29.7585318462424
+                        ],
+                        [
+                            -95.3641703163276,
+                            29.7585764622411
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "objectid": 14,
+                "accessrestriction": "2",
+                "notes": "Must go thru double door to proceed south.",
+                "globalid": "92fabdba-fbb3-4d66-911a-800bf8ab8243",
+                "created_user": "HPDGIS",
+                "created_date": 1635262453251,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262453251,
+                "Shape__Area": 306.71484375,
+                "Shape__Length": 71.11904637678441
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+# Houston Tunnel Mapping System (EDA with Python)
+
+This Python notebook explores the Houston Tunnel system.
+
+```{python}
+import geopandas as gpd
+import numpy as np
+import matplotlib.pyplot as plt
+```
+
+```{python}
+tunnels = gpd.read_file('tunnels.geojson', engine='pyogrio')
+tunnels[['objectid', 'name', 'Shape__Length']].head()
+```
+
+```{python}
+tunnels['name'].count()
+```
+
+```{python}
+tunnels.plot(figsize=(10,10), column='name')
+plt.show()
+```
+
+```{python}
+# Calculate the distance in meters and feet for UTM 15N (EPSG:32615)
+
+meters = tunnels.to_crs('EPSG:32615').length
+footage = meters * 3.2808399
+
+tunnels['footage'] = footage
+
+# Compare Shape__Length and footage columns
+tunnels[['name', 'Shape__Length', 'footage']]
+```
+
+```{python}
+# Calculate total miles of tunnels
+
+tunnels['Shape__Length'].sum() / 5280
+```
+
+```{python}
+tunnels['footage'].sum() / 5280
+```

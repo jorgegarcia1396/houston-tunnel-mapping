@@ -1,0 +1,2777 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3662038442669,
+                    29.7592525174491
+                ]
+            },
+            "properties": {
+                "objectid": 1,
+                "accesstype": null,
+                "access": "Public",
+                "globalid": "0c8cc972-f637-481f-b526-9c23f39286c7",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3653926539839,
+                    29.7585530693373
+                ]
+            },
+            "properties": {
+                "objectid": 2,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "bca69b6c-aa27-4336-bbcf-a9c756cd94a1",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.365326781694,
+                    29.7587728161937
+                ]
+            },
+            "properties": {
+                "objectid": 3,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "ac2f2d93-9dad-4763-a566-bdcdb0329b6b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.36514617444,
+                    29.7589462245716
+                ]
+            },
+            "properties": {
+                "objectid": 4,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "40ee1c7a-a046-4b12-ad28-86b158b6efa3",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3657079873966,
+                    29.7580409897806
+                ]
+            },
+            "properties": {
+                "objectid": 5,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "dd211c96-c13f-42ca-9b2a-0acd6573cbb8",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3658979954757,
+                    29.7578055650817
+                ]
+            },
+            "properties": {
+                "objectid": 6,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "ea18397c-63b1-4527-9342-636d5718ef86",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3672454395028,
+                    29.7579142148527
+                ]
+            },
+            "properties": {
+                "objectid": 7,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "97bd4ad5-d5eb-45d9-adce-3b6abcc21c28",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3673463526085,
+                    29.7578754903128
+                ]
+            },
+            "properties": {
+                "objectid": 8,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "5b07de73-0d0c-492c-82af-ec5a2aad6cc9",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3681066905102,
+                    29.7580365350651
+                ]
+            },
+            "properties": {
+                "objectid": 9,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "93c7fee6-6352-4bb9-a15f-578d90e82290",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3681709478314,
+                    29.7582588417482
+                ]
+            },
+            "properties": {
+                "objectid": 10,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "59350166-6801-4661-8431-0effedf16f61",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3681281984706,
+                    29.7583099077584
+                ]
+            },
+            "properties": {
+                "objectid": 11,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "8b976a68-c3c5-4fd0-9ed4-65717087d6e4",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.367402277281,
+                    29.7591826771596
+                ]
+            },
+            "properties": {
+                "objectid": 12,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "4c8da87c-0df4-42e8-b816-16a5e4d3f074",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676063726986,
+                    29.7589191339611
+                ]
+            },
+            "properties": {
+                "objectid": 13,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "539d5e35-09ab-4720-b0e9-6015b00bb1d8",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676464172018,
+                    29.7589446556206
+                ]
+            },
+            "properties": {
+                "objectid": 14,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "0870bf7a-e85c-4118-a640-99e4715acbfa",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3694403756802,
+                    29.761169906744
+                ]
+            },
+            "properties": {
+                "objectid": 15,
+                "accesstype": "2",
+                "access": "0",
+                "globalid": "b4573efc-6c2f-4bcd-81cd-cb07877b396b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3691957026125,
+                    29.7610262696197
+                ]
+            },
+            "properties": {
+                "objectid": 16,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "4b4a0bd1-4729-4ef2-b224-372325d0372d",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.36844468293,
+                    29.7606203074513
+                ]
+            },
+            "properties": {
+                "objectid": 17,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "ad663d36-a00d-4ad2-a599-c2b5ee1a1133",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3676819179765,
+                    29.7601671505889
+                ]
+            },
+            "properties": {
+                "objectid": 18,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "29baa802-9f0d-4880-be45-a89dff5ed053",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3698515105815,
+                    29.7608427316637
+                ]
+            },
+            "properties": {
+                "objectid": 20,
+                "accesstype": "2",
+                "access": "0",
+                "globalid": "adf0c9e9-84a5-4b2f-815d-a87d3f4363c6",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3693880101971,
+                    29.7600949258511
+                ]
+            },
+            "properties": {
+                "objectid": 21,
+                "accesstype": "2",
+                "access": "0",
+                "globalid": "f1ccc907-0269-435b-8a0f-fb393d40dfcc",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3693930708165,
+                    29.7601566771901
+                ]
+            },
+            "properties": {
+                "objectid": 22,
+                "accesstype": "0",
+                "access": "0",
+                "globalid": "bc1f94bc-3553-4d54-8f5c-289e8fd923fc",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.369964161425,
+                    29.7607277246632
+                ]
+            },
+            "properties": {
+                "objectid": 23,
+                "accesstype": "0",
+                "access": "0",
+                "globalid": "8924d11f-9cb5-462a-b3be-7b9b8046f682",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3670362994638,
+                    29.7599351992344
+                ]
+            },
+            "properties": {
+                "objectid": 24,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "4b9efc27-8feb-4f49-bf85-25e12b1b3e34",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3661892314165,
+                    29.7591915268859
+                ]
+            },
+            "properties": {
+                "objectid": 25,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "fec11ef7-dc19-4632-891e-12de69e47c68",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3678666172293,
+                    29.7622584647428
+                ]
+            },
+            "properties": {
+                "objectid": 26,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "c6979318-d615-4081-8bb3-fb818fabc378",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3666211389584,
+                    29.7615047627134
+                ]
+            },
+            "properties": {
+                "objectid": 27,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "9714f9b8-7cc9-4c2b-a853-8575505f9d92",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3663045457841,
+                    29.7613029862685
+                ]
+            },
+            "properties": {
+                "objectid": 28,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "5cb09d0d-641e-4cf0-aa73-c4634d81e26d",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3658328784281,
+                    29.76038457037
+                ]
+            },
+            "properties": {
+                "objectid": 29,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "483e29e7-2e0c-4b70-bc90-9d43e730bd47",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3653930019974,
+                    29.7601225319674
+                ]
+            },
+            "properties": {
+                "objectid": 30,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "8825734b-8264-4385-8168-de6e90f2a4c9",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3658975339835,
+                    29.7599311700832
+                ]
+            },
+            "properties": {
+                "objectid": 31,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "1bf42536-c0bf-4587-b372-b7b1b52f50ea",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3658263439986,
+                    29.759885796621
+                ]
+            },
+            "properties": {
+                "objectid": 32,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "d79a9289-9009-4b6d-8ef3-778048d5fb15",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3650841409076,
+                    29.7622826344197
+                ]
+            },
+            "properties": {
+                "objectid": 33,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "fc216464-5e89-4c48-b016-5ad28c437780",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3653017198792,
+                    29.7618660159995
+                ]
+            },
+            "properties": {
+                "objectid": 34,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "1c7352d4-8c18-43fb-a245-1a821b21e187",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3663278079639,
+                    29.7608598433476
+                ]
+            },
+            "properties": {
+                "objectid": 35,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "db4e51a0-8de6-464d-8f85-eab6dddbc7f6",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3656806072947,
+                    29.7602927869185
+                ]
+            },
+            "properties": {
+                "objectid": 36,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "0c8313f8-61da-47b2-b313-6511a815c5f1",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3656257114637,
+                    29.7597941032592
+                ]
+            },
+            "properties": {
+                "objectid": 37,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "1cb0b734-8cc3-40b9-ad88-ff3fc2fe3591",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3660971830981,
+                    29.7595679307285
+                ]
+            },
+            "properties": {
+                "objectid": 38,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "45960532-4799-4a17-a005-d58a6e0f3cb3",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3605412461724,
+                    29.7615439583866
+                ]
+            },
+            "properties": {
+                "objectid": 39,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "7fd77cf9-0e2c-4af8-b61b-09caebb5a2fa",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3591184453789,
+                    29.7606553642178
+                ]
+            },
+            "properties": {
+                "objectid": 40,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "0b2c0a12-c473-4d90-8c98-79e50c91a1bc",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3589042375287,
+                    29.7617938678568
+                ]
+            },
+            "properties": {
+                "objectid": 41,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "868011f4-3f03-46f7-bf60-8fa1e266a0c9",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3575174748839,
+                    29.7617599387424
+                ]
+            },
+            "properties": {
+                "objectid": 42,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "ab8a96c2-3a85-4510-bdf9-249a26dd2a01",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.357479521191,
+                    29.760676862965
+                ]
+            },
+            "properties": {
+                "objectid": 43,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "cb9e5770-9557-4c43-b4b5-633fbe2cf184",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3599792343577,
+                    29.7612773245842
+                ]
+            },
+            "properties": {
+                "objectid": 44,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "1644107f-274f-48fb-96d2-df23cbc192f4",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3589761637868,
+                    29.7618433793889
+                ]
+            },
+            "properties": {
+                "objectid": 45,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "769cb685-8f24-4d87-9f79-1c8a30376c93",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3575600063988,
+                    29.7616991149156
+                ]
+            },
+            "properties": {
+                "objectid": 46,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "d4b84d90-67cf-478b-89eb-0a6f9f9d2db6",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3574090733783,
+                    29.7606356203992
+                ]
+            },
+            "properties": {
+                "objectid": 47,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "70a98ed0-5968-4744-878b-dcd0aa0de70a",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3569546648187,
+                    29.7602103911375
+                ]
+            },
+            "properties": {
+                "objectid": 48,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "5a2b1964-2188-466e-b30e-53cb61433f84",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3628940990576,
+                    29.7615524526645
+                ]
+            },
+            "properties": {
+                "objectid": 49,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "eba6e732-1c13-4df7-ab6e-d31923779029",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3641285267911,
+                    29.7614127251005
+                ]
+            },
+            "properties": {
+                "objectid": 50,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "76ae9101-72da-4714-a0ec-a169afb4c6b9",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3625732980169,
+                    29.759710029381
+                ]
+            },
+            "properties": {
+                "objectid": 51,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "e45e6cd0-4ff4-49c0-a7da-b2e5d9d35351",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3623999956348,
+                    29.7595997829782
+                ]
+            },
+            "properties": {
+                "objectid": 52,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "76cba3bf-8618-40b7-a5a1-147a84eb799d",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3638098598406,
+                    29.759450556574
+                ]
+            },
+            "properties": {
+                "objectid": 53,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "759093c0-d304-4ab1-9f5b-e0723c6b114f",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3647916210124,
+                    29.7594314766672
+                ]
+            },
+            "properties": {
+                "objectid": 54,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "eddf1410-706c-4966-a870-d55a74542475",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3648820677714,
+                    29.7589322293669
+                ]
+            },
+            "properties": {
+                "objectid": 55,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "4085b484-06fd-4761-9f26-8faee23a73ab",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.364494008978,
+                    29.758688553664
+                ]
+            },
+            "properties": {
+                "objectid": 56,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "dfe34577-4e4f-4215-a34e-b9ba9e70bcd1",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3629469742071,
+                    29.7614896476935
+                ]
+            },
+            "properties": {
+                "objectid": 57,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "74cc6c2d-727e-4065-a3a3-f2eb1a7e7e30",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.363097146264,
+                    29.7611945813835
+                ]
+            },
+            "properties": {
+                "objectid": 58,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "b29706cd-0db2-4aba-a69b-c7ee5177eafb",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3641343850558,
+                    29.7615405970786
+                ]
+            },
+            "properties": {
+                "objectid": 59,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "da2f642a-062e-456a-a020-7ae854eb5394",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3632287751351,
+                    29.7601646749318
+                ]
+            },
+            "properties": {
+                "objectid": 60,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "a2dbabde-d450-4496-b61f-8de7221f2ca3",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3638974370923,
+                    29.7603490532071
+                ]
+            },
+            "properties": {
+                "objectid": 61,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "434d8312-8120-4e34-b5b9-bfe9f44aed39",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3624572624216,
+                    29.7595263691921
+                ]
+            },
+            "properties": {
+                "objectid": 62,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "ec2dcacc-141c-46c8-8712-6197c72cd15c",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3644843292623,
+                    29.7596760933455
+                ]
+            },
+            "properties": {
+                "objectid": 63,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "826d2d0c-cdcf-4988-a6c8-5b401f04679b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3641553531878,
+                    29.7590479197308
+                ]
+            },
+            "properties": {
+                "objectid": 64,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "82a7367d-f820-49cb-9ff5-98a00b828f4b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3642408518343,
+                    29.7585345254463
+                ]
+            },
+            "properties": {
+                "objectid": 65,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "2612da5e-e135-4f0e-bedb-f2457117c96f",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3637772501131,
+                    29.7603383339085
+                ]
+            },
+            "properties": {
+                "objectid": 66,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "ae0d0227-98a0-4f54-b5a1-5aeb5152b4ff",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3636576762437,
+                    29.759807871266
+                ]
+            },
+            "properties": {
+                "objectid": 67,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "a785a145-b813-4262-b096-b0cbb2d0ccc2",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3646570909948,
+                    29.7596021970217
+                ]
+            },
+            "properties": {
+                "objectid": 68,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "7cb14f13-d10e-464f-8ff9-c53e63e0a21c",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3663370718986,
+                    29.7560055470273
+                ]
+            },
+            "properties": {
+                "objectid": 69,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "3f3b460d-a82f-41cb-b2b7-84a3393b8690",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3656650474089,
+                    29.7568709816797
+                ]
+            },
+            "properties": {
+                "objectid": 70,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "b1a10a0c-4bca-4a0c-b008-97cd4a688667",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.364706694898,
+                    29.7551552819031
+                ]
+            },
+            "properties": {
+                "objectid": 71,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "ad355817-0c2c-45c5-a0d6-21adbee57484",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3635667253492,
+                    29.7549496092936
+                ]
+            },
+            "properties": {
+                "objectid": 72,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "25fe266f-fbd2-4b4e-8305-97e9f5ab3de5",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3648949959328,
+                    29.7563801670509
+                ]
+            },
+            "properties": {
+                "objectid": 73,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "f5e4651f-da85-4e9f-b6bc-ce64c7d3dedc",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3639519219491,
+                    29.7560881917747
+                ]
+            },
+            "properties": {
+                "objectid": 74,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "d6c51e8b-28ca-4a15-bbb2-3075c1669cff",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3647208717799,
+                    29.7563624842887
+                ]
+            },
+            "properties": {
+                "objectid": 75,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "ceceb35c-3d4b-47c6-97b9-3a7158e7c271",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3651159533998,
+                    29.7579578921659
+                ]
+            },
+            "properties": {
+                "objectid": 76,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "7f6aa007-948f-4a2b-8fcf-ae0d3dec563b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3648652707249,
+                    29.7574031113301
+                ]
+            },
+            "properties": {
+                "objectid": 77,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "84c1a4da-e935-4d91-a2e5-78b3ad3f7d2d",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3645432042375,
+                    29.7572207893307
+                ]
+            },
+            "properties": {
+                "objectid": 78,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "b414926a-f3f7-4aa7-8dda-f0e3c0c756dd",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3636631113203,
+                    29.7564880237536
+                ]
+            },
+            "properties": {
+                "objectid": 79,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "2d923909-b2f1-4329-b55a-0ada05b91adf",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.362321064187,
+                    29.7560848453378
+                ]
+            },
+            "properties": {
+                "objectid": 80,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "7a67f4f8-a307-4185-97a9-62b4770f515a",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3615975527136,
+                    29.7553660470174
+                ]
+            },
+            "properties": {
+                "objectid": 81,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "ab93d778-a73f-4bd3-8a17-36360dafaf28",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3643216126247,
+                    29.7570165508684
+                ]
+            },
+            "properties": {
+                "objectid": 82,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "61b2b959-e007-4071-9b13-d9e5d9e7809e",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3629242870233,
+                    29.7566181912428
+                ]
+            },
+            "properties": {
+                "objectid": 83,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "f42fb54f-e424-4b34-a3bf-b55a2abd63d0",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3624439724589,
+                    29.7561574637958
+                ]
+            },
+            "properties": {
+                "objectid": 84,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "7e13ee55-b751-4ad4-a8e4-103a8b985742",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3618361427408,
+                    29.755598277885
+                ]
+            },
+            "properties": {
+                "objectid": 85,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "f4da5e13-ad42-4b34-a27c-b0f1be9616c2",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.361165458785,
+                    29.7549417702721
+                ]
+            },
+            "properties": {
+                "objectid": 86,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "fb4d5c74-c90b-479c-8bee-070f68c88d6b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3618402850514,
+                    29.7548566964488
+                ]
+            },
+            "properties": {
+                "objectid": 87,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "64c20e37-3061-45f8-bfe8-f1f7c54ffff0",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3631135910017,
+                    29.7554908616345
+                ]
+            },
+            "properties": {
+                "objectid": 88,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "f9fa68e5-0956-412c-9c51-9cd280032672",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3631603800549,
+                    29.7549882859528
+                ]
+            },
+            "properties": {
+                "objectid": 89,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "a7f28028-9f97-4559-99e5-860424b164a6",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3626182379318,
+                    29.7546484377995
+                ]
+            },
+            "properties": {
+                "objectid": 90,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "6d3f0b43-b060-47ff-83ed-61b2e58a3a63",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3631867431732,
+                    29.7545288133914
+                ]
+            },
+            "properties": {
+                "objectid": 91,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "69fbd359-387b-414d-a4c8-538f70b39456",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3640851777292,
+                    29.7568772669549
+                ]
+            },
+            "properties": {
+                "objectid": 92,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "29e4d1b1-a7bd-479f-8f79-3c27ae96eabf",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3630168865221,
+                    29.7564997480091
+                ]
+            },
+            "properties": {
+                "objectid": 93,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "e26bdfa5-342f-4ae9-bc25-c267059dfa34",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3633430853102,
+                    29.7554596777253
+                ]
+            },
+            "properties": {
+                "objectid": 94,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "b443b663-c5fa-4751-adee-8b0891ce177b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3715837212434,
+                    29.7585079122483
+                ]
+            },
+            "properties": {
+                "objectid": 95,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "8d2c1ead-70a3-496f-9f94-264a4b83ee37",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3710034837218,
+                    29.7586132561686
+                ]
+            },
+            "properties": {
+                "objectid": 96,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "9005c4ce-de48-49e0-805b-72e5f8a1884b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3706554937517,
+                    29.7585116939373
+                ]
+            },
+            "properties": {
+                "objectid": 97,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "8c13c8e4-bd99-4b80-bed3-23f3c9d70f92",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3694740615226,
+                    29.7578503316485
+                ]
+            },
+            "properties": {
+                "objectid": 98,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "18547fae-7069-4cca-a9a6-1a9ffe827ecb",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3705409084356,
+                    29.7574416099267
+                ]
+            },
+            "properties": {
+                "objectid": 99,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "91e3689f-a0e4-4909-b0b2-9152d383de96",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3717571198657,
+                    29.7573132497909
+                ]
+            },
+            "properties": {
+                "objectid": 100,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "4c30e287-4086-4014-a370-41b31514684c",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3716575635234,
+                    29.7584118605656
+                ]
+            },
+            "properties": {
+                "objectid": 101,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "06487a49-bf07-46c2-895f-776ec6953576",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3706383231313,
+                    29.7576343132515
+                ]
+            },
+            "properties": {
+                "objectid": 102,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "6558cfcd-1ab2-4186-a4dc-4e473397f550",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3716332126245,
+                    29.7573259159818
+                ]
+            },
+            "properties": {
+                "objectid": 103,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "efe0691f-76ca-4e87-ac20-3e1e5a136a28",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3725342841261,
+                    29.7566669340076
+                ]
+            },
+            "properties": {
+                "objectid": 104,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "e4661362-0ab4-4714-bacd-06f675b0a48d",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3704314995209,
+                    29.7568519686041
+                ]
+            },
+            "properties": {
+                "objectid": 105,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "3ce5a09e-0fa9-45c1-89a2-3616f3c2de32",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 106,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3694429954539,
+                    29.7578895511803
+                ]
+            },
+            "properties": {
+                "objectid": 106,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "dfc506aa-01b6-4d6d-b51c-214f1bc6f0e0",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 107,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3689793034876,
+                    29.7578891679868
+                ]
+            },
+            "properties": {
+                "objectid": 107,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "a245ab08-1aa0-4bd9-b7a8-82522dfa6433",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1653485807000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 108,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3700835535086,
+                    29.7574806365796
+                ]
+            },
+            "properties": {
+                "objectid": 108,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "0c83d255-21e4-40e1-b3cf-b1ddb1a7c7b4",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3680056250772,
+                    29.7572306498123
+                ]
+            },
+            "properties": {
+                "objectid": 109,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "af36091a-02ee-4917-b5d4-9df9b2ed2f75",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1653485590000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.368567711027,
+                    29.7567061182973
+                ]
+            },
+            "properties": {
+                "objectid": 110,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "f65dd702-896e-4708-a5f5-db800e8f6f30",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 111,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3690539892359,
+                    29.7569932345588
+                ]
+            },
+            "properties": {
+                "objectid": 111,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "c962a075-850d-40e4-a986-82609602f986",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 112,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3727906799707,
+                    29.7543527823822
+                ]
+            },
+            "properties": {
+                "objectid": 112,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "09504208-4a2c-4566-8191-f0f3301740bf",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3706141049318,
+                    29.7551732407363
+                ]
+            },
+            "properties": {
+                "objectid": 113,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "1458eb04-3d97-42cd-93fd-246d2d9e6ca1",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 114,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3715478445045,
+                    29.7552255468174
+                ]
+            },
+            "properties": {
+                "objectid": 114,
+                "accesstype": "2",
+                "access": "0",
+                "globalid": "ac163ee6-6387-4e0b-a242-ec09c6c2d9a9",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3724047776705,
+                    29.7534773962394
+                ]
+            },
+            "properties": {
+                "objectid": 115,
+                "accesstype": "2",
+                "access": "Public",
+                "globalid": "97d170f7-e98a-4f7d-9db6-592928d64957",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 116,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3695910954338,
+                    29.7561268100241
+                ]
+            },
+            "properties": {
+                "objectid": 116,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "799f6520-b43e-4ed3-9526-3f6b5c64d592",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 117,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3702700913323,
+                    29.7554967796836
+                ]
+            },
+            "properties": {
+                "objectid": 117,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "eaaa8c26-c50f-4d62-8d5e-c0335173bc98",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.370063301338,
+                    29.7547446533299
+                ]
+            },
+            "properties": {
+                "objectid": 118,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "90b7d3bb-b0b3-4b52-91f7-bd0ad9db5802",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3698236798476,
+                    29.7547561389312
+                ]
+            },
+            "properties": {
+                "objectid": 119,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "d8afba22-c0e2-445f-bf42-e25dde7c47f6",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3718118302077,
+                    29.7551474835826
+                ]
+            },
+            "properties": {
+                "objectid": 120,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "1a7e1be1-368d-43f7-ae48-1481cf61cf29",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3726612946547,
+                    29.7543387419535
+                ]
+            },
+            "properties": {
+                "objectid": 121,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "8a214e42-b431-411c-9237-8d74d03f0445",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3720412234124,
+                    29.7532685009531
+                ]
+            },
+            "properties": {
+                "objectid": 122,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "4bb68c7b-d38f-47df-8dd8-7898e97506e1",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3715481048158,
+                    29.7528584360596
+                ]
+            },
+            "properties": {
+                "objectid": 123,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "c4b8ba2d-4a08-48e1-ae34-17408c48931e",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 124,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3738975325057,
+                    29.7529554849593
+                ]
+            },
+            "properties": {
+                "objectid": 124,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "d4b890d3-27bf-4d24-95f4-968f272db8cc",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 125,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3733607940361,
+                    29.7535530178901
+                ]
+            },
+            "properties": {
+                "objectid": 125,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "7f822b19-1d12-45b9-9650-174df0ed41cf",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 126,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3643131040626,
+                    29.7580288360741
+                ]
+            },
+            "properties": {
+                "objectid": 126,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "53104d18-041d-49ef-892e-b1bbcf05d74b",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 127,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3636806028667,
+                    29.7579977010412
+                ]
+            },
+            "properties": {
+                "objectid": 127,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "a4e28c45-1746-47f6-a67c-03b307b5c7e1",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3640129085998,
+                    29.7584686892072
+                ]
+            },
+            "properties": {
+                "objectid": 128,
+                "accesstype": "0",
+                "access": "Public",
+                "globalid": "94ff7601-4baf-477c-990c-36b0b2c13617",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3662327296916,
+                    29.7606433951458
+                ]
+            },
+            "properties": {
+                "objectid": 130,
+                "accesstype": "1",
+                "access": "Public",
+                "globalid": "f2b9b4ed-6a1b-4cc1-afe8-8dbc9b25ea6c",
+                "created_user": "HPDGIS",
+                "created_date": 1635262452688,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1635262452688
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3693803522996,
+                    29.7555669629396
+                ]
+            },
+            "properties": {
+                "objectid": 131,
+                "accesstype": "0",
+                "access": null,
+                "globalid": "7a6ce0fc-d251-4922-b3cd-54035e7d750f",
+                "created_user": "HPDGIS",
+                "created_date": 1653485243000,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1653485243000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3687232112947,
+                    29.756782464778
+                ]
+            },
+            "properties": {
+                "objectid": 132,
+                "accesstype": "0",
+                "access": null,
+                "globalid": "24de75ff-5fee-47ac-8fbe-e89e54441582",
+                "created_user": "HPDGIS",
+                "created_date": 1653485292000,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1653485292000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 133,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3679600783236,
+                    29.7571579175992
+                ]
+            },
+            "properties": {
+                "objectid": 133,
+                "accesstype": "0",
+                "access": null,
+                "globalid": "127cd383-7d66-48f7-af70-8f2b9358ed01",
+                "created_user": "HPDGIS",
+                "created_date": 1653485601000,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1653485601000
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 134,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3689847167735,
+                    29.7577502506524
+                ]
+            },
+            "properties": {
+                "objectid": 134,
+                "accesstype": "0",
+                "access": null,
+                "globalid": "e2d341b3-efde-4917-83c4-60028c92b749",
+                "created_user": "HPDGIS",
+                "created_date": 1653485812000,
+                "last_edited_user": "HPDGIS",
+                "last_edited_date": 1653485830000
+            }
+        }
+    ]
+}
