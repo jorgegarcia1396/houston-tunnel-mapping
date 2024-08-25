@@ -44,3 +44,30 @@ sum(tunnels$Shape__Length) / 5280
 ```{r}
 sum(tunnels$footage) / 5280
 ```
+
+```{r}
+buildings <- st_read("buildings-within-tunnels.geojson")
+buildings <- subset(buildings, is.na(Shape__Area) == FALSE)
+as.data.frame(buildings) %>% head(5)
+```
+
+```{r}
+nrow(buildings)
+```
+
+```{r}
+# Total Area in feet
+
+sum(buildings$Shape__Area)
+```
+
+```{r}
+tm_shape(buildings) +
+    tm_polygons(col = "geomtype")
+```
+
+```{r}
+hist(buildings$Shape__Area, col = "royalblue",
+     main = "Histogram of Building Square Footage",
+     xlab = "Sq Ft")
+```
