@@ -71,3 +71,24 @@ hist(buildings$Shape__Area, col = "royalblue",
      main = "Histogram of Building Square Footage",
      xlab = "Sq Ft")
 ```
+
+```{r}
+business <- st_read("business.geojson")
+as.data.frame(business) %>% head(10)
+```
+
+```{r}
+business %>%
+    as.data.frame(.) %>%
+    group_by(tunnel_name) %>%
+    summarise(count = n())
+```
+
+```{r}
+tm_shape(buildings) +
+    tm_polygons(col = "geomtype") +
+    tm_shape(tunnels) +
+    tm_lines(col = "name", lwd = 2.5) +
+    tm_shape(business) +
+    tm_dots(col = "tunnel_name", size = 0.1)
+```

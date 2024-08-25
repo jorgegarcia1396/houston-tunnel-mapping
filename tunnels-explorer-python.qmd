@@ -75,3 +75,27 @@ plt.title('Histogram of Building Square Footage')
 plt.xlabel('Sq Ft')
 plt.show()
 ```
+
+```{python}
+business = gpd.read_file('business.geojson')
+business.info()
+```
+
+```{python}
+business.head()
+```
+
+```{python}
+fig, ax = plt.subplots(1, 1, figsize=(14,14))
+
+fig.patch.set_linewidth(5)
+fig.patch.set_edgecolor('navy')
+
+buildings.plot(ax=ax, column='geomtype', alpha=0.7)
+tunnels.plot(ax=ax, column='name')
+business.plot(ax=ax, column='tunnel_name')
+
+plt.title('Houston Tunnel Business Locations')
+plt.axis(False)
+plt.show()
+```
